@@ -3,7 +3,9 @@
     "paths": {
       "@redux/*": ["./src/redux/*"],
       "@utils/*": ["./src/utils/*"],
-      "@api/*": ["./src/api/*"]
+      "@api/*": ["./src/api/*"],
+      "@pages/*": ["./src/pages/*"],
+      "@comps/*": ["./src/component/*"]
     },
     "baseUrl": ".",
     "module": "es6"
